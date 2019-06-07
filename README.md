@@ -16,3 +16,5 @@ shadow2pmtlp = Metal Pink
 shadow2pcnno = Cannon Orange
 
 shadow2pcnng = Cannon Green
+
+NULL.DFF can be used to replace other .DFFs in a .one if an import is an all-in-one DFF instead of separated.
