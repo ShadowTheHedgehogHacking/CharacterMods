@@ -43,14 +43,15 @@ NULL.DFF can be used to replace other .DFFs in a .one if an import is an all-in-
 
 
 Key data
-```shadow = Red
+```
+shadow = Shadow
 
-shadow2py = Yellow
+shadow2py = 2PYellow
 
-shadow2pmtlb = Metal Blue
+shadow2pmtlb = 2PGunBlue
 
-shadow2pmtlp = Metal Pink
+shadow2pmtlp = 2PGunPink
 
-shadow2pcnno = Cannon Orange
+shadow2pcnno = 2PCannonOrange
 
-shadow2pcnng = Cannon Green
+shadow2pcnng = 2PCannonGreen
