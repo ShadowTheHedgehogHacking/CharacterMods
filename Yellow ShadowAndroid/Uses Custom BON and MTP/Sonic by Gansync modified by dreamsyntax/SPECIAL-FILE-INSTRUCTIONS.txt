@@ -1,0 +1,31 @@
+Optional code for jumpball color to be blue for P2:
+0460a800 38000001
+0460a850 38800001
+
+Requires this code to work:
+
+$P2 Shadow MTP Animation Override TestVersion 1 [dreamsyntax]
+C20B44DC 00000005
+809F085C 3E00807D
+621018C4 7C058000
+39E00000 41820010
+821DFFA4 3A10FCF4
+39E02729 00000000
+C201483C 00000003
+2C0F2729 40820008
+92030014 80030014
+60000000 00000000
+C20B474C 00000004
+38210020 3DE0807D
+61EF866C 3E00809D
+621093A8 920F0000
+60000000 00000000
+*P1 must be regular shadow
+*P2 must be yellow android shadow
+*
+*shadow2py.one archive MUST CONTAIN:
+*HS.BON
+*SONDOW.MTP
+*IN THAT ORDER at the bottom of the file
+*
+*You can put whatever BON/MTP you want, including whatever models, but the name must be unique / not matching real files in the game

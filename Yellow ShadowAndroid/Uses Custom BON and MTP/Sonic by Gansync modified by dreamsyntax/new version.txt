@@ -1,0 +1,2 @@
+this version patches the broken
+melee configs (props now properly copied)
