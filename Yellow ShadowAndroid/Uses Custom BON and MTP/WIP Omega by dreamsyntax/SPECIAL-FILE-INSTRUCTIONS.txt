@@ -1,27 +1,30 @@
 Requires this code to work:
 
-$P2 Shadow MTP Animation Override TestVersion 1 [dreamsyntax]
-C20B44DC 00000005
-809F085C 3E00807D
-621018C4 7C058000
-39E00000 41820010
-821DFFA4 3A10FCF4
-39E02729 00000000
-C201483C 00000003
-2C0F2729 40820008
+$YellowAndroid MTP Animation Override [dreamsyntax, DonutStopGaming]
+c20b44dc 00000009
+3e00807d 621018c4
+7c058000 39e00000
+41820030 3a050004
+82100000 82100014
+3de05357 61ef3250
+80900000 7c0f2000
+39e00000 4082000c
+3a10fcf4 39e02729
+809f085c 00000000
+c201483c 00000003
+2c0f2729 40820008
 92030014 80030014
 60000000 00000000
-C20B474C 00000004
-38210020 3DE0807D
-61EF866C 3E00809D
-621093A8 920F0000
+c20b474c 00000004
+38210020 3de0807d
+61ef866c 3e00809d
+621093a8 920f0000
 60000000 00000000
-*P1 must be regular shadow
-*P2 must be yellow android shadow
-*
 *shadow2py.one archive MUST CONTAIN:
 *HS.BON
 *SONDOW.MTP
 *IN THAT ORDER at the bottom of the file
 *
-*You can put whatever BON/MTP you want, including whatever models, but the name must be unique / not matching real files in the game
+*You can put whatever BON/MTP you want, including whatever models, but the name must match the above.
+*
+*The other androids must not contain custom MTP with this version of the code.
