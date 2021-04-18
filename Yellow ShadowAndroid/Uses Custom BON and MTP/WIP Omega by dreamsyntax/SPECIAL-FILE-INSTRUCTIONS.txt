@@ -28,3 +28,9 @@ c20b474c 00000004
 *You can put whatever BON/MTP you want, including whatever models, but the name must match the above.
 *
 *The other androids must not contain custom MTP with this version of the code.
+
+$YellowAndroid to Omega Color [dreamsyntax]
+0460a800 38000006
+0460a850 38800006
+*Change YellowAndroid slot to have:
+*Omega's jumball

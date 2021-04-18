@@ -1,7 +1,3 @@
-Optional code for jumpball color to be blue for P2:
-0460a800 38000001
-0460a850 38800001
-
 Requires this code to work:
 
 $YellowAndroid MTP Animation Override [dreamsyntax, DonutStopGaming]
@@ -32,3 +28,17 @@ c20b474c 00000004
 *You can put whatever BON/MTP you want, including whatever models, but the name must match the above.
 *
 *The other androids must not contain custom MTP with this version of the code.
+
+
+Optional code for jumpball color to be blue and remove shoeflame FX for YellowAndroidShadow:
+
+$YellowAndroid to Sonic Color & FX [dreamsyntax]
+0460a800 38000001
+0460a850 38800001
+c2083898 00000003
+80030064 2c00000f
+40820008 38000001
+60000000 00000000
+*Change YellowAndroid slot to have:
+*Sonic's jumpball
+*No shoe flame FX
