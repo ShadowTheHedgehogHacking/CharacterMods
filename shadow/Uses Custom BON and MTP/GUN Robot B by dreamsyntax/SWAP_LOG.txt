@@ -1,0 +1,460 @@
+REPLACED sh_walk
+WITH gunroboa_dash
+AND kept props from sh_walk
+
+REPLACED sh_walk_l
+WITH gunroboa_dash
+AND kept props from sh_walk_l
+
+REPLACED sh_walk_r_anm
+WITH gunroboa_dash
+AND kept props from sh_walk_r_anm
+
+REPLACED sh_slow_skate
+WITH gunroboa_dash
+AND kept props from sh_slow_skate
+
+REPLACED sh_run_r
+WITH gunroboa_dash
+AND kept props from sh_run_r
+
+REPLACED sh_run_l
+WITH gunroboa_dash
+AND kept props from sh_run_l
+
+REPLACED sh_run_b_l
+WITH gunroboa_dash
+AND kept props from sh_run_b_l
+
+REPLACED sh_run_b_r
+WITH gunroboa_dash
+AND kept props from sh_run_b_r
+
+REPLACED sh_run_b
+WITH gunroboa_dash
+AND kept props from sh_run_b
+
+REPLACED sh_run
+WITH gunroboa_dash
+AND kept props from sh_run
+
+REPLACED sh_high_skate
+WITH gunroboa_dash
+AND kept props from sh_high_skate
+
+REPLACED sh_idle
+WITH gunroboa_alertgun3
+AND kept props from sh_idle
+
+REPLACED sh_idle_b
+WITH gunroboa_alertlockon
+AND kept props from sh_idle_b
+
+REPLACED sh_idle_eda
+WITH gunroboa_alertlockon
+AND kept props from sh_idle_eda
+
+REPLACED sh_idle_f
+WITH gunroboa_alertlockon
+AND kept props from sh_idle_f
+
+REPLACED sh_idle_gun
+WITH gunroboa_alertlockon
+AND kept props from sh_idle_gun
+
+REPLACED sh_jump_02_d
+WITH gunroboa_fall
+AND kept props from sh_jump_02_d
+
+REPLACED sh_jump_02_e
+WITH gunroboa_fall
+AND kept props from sh_jump_02_e
+
+REPLACED sh_jump_a
+WITH gunroboa_fall
+AND kept props from sh_jump_a
+
+REPLACED sh_jump_b
+WITH gunroboa_fall
+AND kept props from sh_jump_b
+
+REPLACED sh_jump_back
+WITH gunroboa_fall
+AND kept props from sh_jump_back
+
+REPLACED sh_jump_c
+WITH gunroboa_fall
+AND kept props from sh_jump_c
+
+REPLACED sh_jump_d
+WITH gunroboa_fall
+AND kept props from sh_jump_d
+
+REPLACED sh_jump_e
+WITH gunroboa_landing
+AND kept props from sh_jump_e
+
+REPLACED sh_jump_fa
+WITH gunroboa_fall
+AND kept props from sh_jump_fa
+
+REPLACED sh_jump_fb
+WITH gunroboa_fall
+AND kept props from sh_jump_fb
+
+REPLACED sh_jump_drill
+WITH gunroboa_hyde
+AND kept props from sh_jump_drill
+
+REPLACED sh_jump_drill_eda
+WITH gunroboa_hyde
+AND kept props from sh_jump_drill_eda
+
+REPLACED sh_idle
+WITH gunroboa_damage
+AND kept props from sh_idle
+
+REPLACED sh_idle
+WITH gunroboa_alertgun3
+AND kept props from sh_idle
+
+REPLACED sh_dam_m_a
+WITH gunroboa_damage
+AND kept props from sh_dam_m_a
+
+REPLACED sh_dam_m_b
+WITH gunroboa_damage
+AND kept props from sh_dam_m_b
+
+REPLACED sh_dam_m_c
+WITH gunroboa_damage
+AND kept props from sh_dam_m_c
+
+REPLACED sh_dam_m_f_a
+WITH gunroboa_damage
+AND kept props from sh_dam_m_f_a
+
+REPLACED sh_dam_m_f_b
+WITH gunroboa_damage
+AND kept props from sh_dam_m_f_b
+
+REPLACED sh_dam_m_f_c
+WITH gunroboa_damage
+AND kept props from sh_dam_m_f_c
+
+REPLACED sh_dam_m_f_c
+WITH gunroboa_damage
+AND kept props from sh_dam_m_f_c
+
+REPLACED sh_edge_otto
+WITH gunroboa_damage
+AND kept props from sh_edge_otto
+
+REPLACED sh_edge_otto_b
+WITH gunroboa_damage
+AND kept props from sh_edge_otto_b
+
+REPLACED sh_miss
+WITH gunroboa_damage
+AND kept props from sh_miss
+
+REPLACED sh_miss_fall
+WITH gunroboa_damage
+AND kept props from sh_miss_fall
+
+REPLACED sh_fire_m
+WITH gunroboa_shotgun3
+AND kept props from sh_fire_m
+
+REPLACED sh_fire_s
+WITH gunroboa_shotgun3
+AND kept props from sh_fire_s
+
+REPLACED sh_buki_off
+WITH gunroboa_hyde
+AND kept props from sh_buki_off
+
+REPLACED sh_buki_pick
+WITH gunroboa_hyde
+AND kept props from sh_buki_pick
+
+REPLACED sh_atc
+WITH gunroboa_bullet
+AND kept props from sh_atc
+
+REPLACED sh_atc_dash
+WITH gunroboa_dash
+AND kept props from sh_atc_dash
+
+REPLACED sh_atc_eda
+WITH gunroboa_dash
+AND kept props from sh_atc_eda
+
+REPLACED sh_atc
+WITH gunroboa_dash
+AND kept props from sh_atc
+
+REPLACED sh_CB
+WITH gunroboa_alertlockon
+AND kept props from sh_CB
+
+REPLACED sh_CC_a
+WITH gunroboa_alertgun3
+AND kept props from sh_CC_a
+
+REPLACED sh_CC_b
+WITH gunroboa_alertlockon
+AND kept props from sh_CC_b
+
+REPLACED sh_fw_jump
+WITH gunroboa_dash
+AND kept props from sh_fw_jump
+
+REPLACED sh_glind_bk
+WITH gunroboa_dash
+AND kept props from sh_glind_bk
+
+REPLACED sh_glind_bk_atc
+WITH gunroboa_dash
+AND kept props from sh_glind_bk_atc
+
+REPLACED sh_glind_bk_atc_eda
+WITH gunroboa_dash
+AND kept props from sh_glind_bk_atc_eda
+
+REPLACED sh_glind_bk_atc_eda_b
+WITH gunroboa_dash
+AND kept props from sh_glind_bk_atc_eda_b
+
+REPLACED sh_glind_bk_l
+WITH gunroboa_dash
+AND kept props from sh_glind_bk_l
+
+REPLACED sh_glind_bk_land
+WITH gunroboa_dash
+AND kept props from sh_glind_bk_land
+
+REPLACED sh_glind_bk_pick
+WITH gunroboa_dash
+AND kept props from sh_glind_bk_pick
+
+REPLACED sh_glind_bk_r
+WITH gunroboa_dash
+AND kept props from sh_glind_bk_r
+
+REPLACED sh_glind_flip_bk
+WITH gunroboa_dash
+AND kept props from sh_glind_flip_bk
+
+REPLACED sh_glind_flip_fr
+WITH gunroboa_dash
+AND kept props from sh_glind_flip_fr
+
+REPLACED sh_glind_land
+WITH gunroboa_dash
+AND kept props from sh_glind_land
+
+REPLACED sh_glind_pick
+WITH gunroboa_dash
+AND kept props from sh_glind_pick
+
+REPLACED sh_glind_pick_throw
+WITH gunroboa_dash
+AND kept props from sh_glind_pick_throw
+
+REPLACED sh_glind
+WITH gunroboa_dash
+AND kept props from sh_glind
+
+REPLACED sh_glind_atc
+WITH gunroboa_dash
+AND kept props from sh_glind_atc
+
+REPLACED sh_glind_atc_eda
+WITH gunroboa_dash
+AND kept props from sh_glind_atc_eda
+
+REPLACED sh_glind_atc_eda_b
+WITH gunroboa_dash
+AND kept props from sh_glind_atc_eda_b
+
+REPLACED sh_pick
+WITH gunroboa_alertlockon
+AND kept props from sh_pick
+
+REPLACED sh_pick_idle
+WITH gunroboa_alertlockon
+AND kept props from sh_pick_idle
+
+REPLACED sh_buki_off
+WITH gunroboa_alertgun3
+AND kept props from sh_buki_off
+
+REPLACED sh_buki_pick
+WITH gunroboa_alertlockon
+AND kept props from sh_buki_pick
+
+REPLACED sh_jump_trick
+WITH gunroboa_damage
+AND kept props from sh_jump_trick
+
+REPLACED sh_jump_trickA
+WITH gunroboa_damage
+AND kept props from sh_jump_trickA
+
+REPLACED sh_jump_trickB
+WITH gunroboa_damage
+AND kept props from sh_jump_trickB
+
+REPLACED sh_jump_trickC
+WITH gunroboa_damage
+AND kept props from sh_jump_trickC
+
+REPLACED sh_wall_jump
+WITH gunroboa_dash
+AND kept props from sh_wall_jump
+
+REPLACED sh_wall_r
+WITH gunroboa_dash
+AND kept props from sh_wall_r
+
+REPLACED sh_wall_l
+WITH gunroboa_dash
+AND kept props from sh_wall_l
+
+REPLACED sh_wall_l_a
+WITH gunroboa_dash
+AND kept props from sh_wall_l_a
+
+REPLACED sh_wall_r_a
+WITH gunroboa_dash
+AND kept props from sh_wall_r_a
+
+REPLACED sh_wall_run_l
+WITH gunroboa_dash
+AND kept props from sh_wall_run_l
+
+REPLACED sh_wall_run_r
+WITH gunroboa_dash
+AND kept props from sh_wall_run_r
+
+REPLACED sh_wall_r
+WITH gunroboa_landing
+AND kept props from sh_wall_r
+
+REPLACED sh_wall_l
+WITH gunroboa_landing
+AND kept props from sh_wall_l
+
+REPLACED sh_flot
+WITH gunroboa_fall
+AND kept props from sh_flot
+
+REPLACED sh_flip_up
+WITH gunroboa_alertlockon
+AND kept props from sh_flip_up
+
+REPLACED sh_flip_on
+WITH gunroboa_damage
+AND kept props from sh_flip_on
+
+REPLACED sh_flip_off
+WITH gunroboa_damage
+AND kept props from sh_flip_off
+
+REPLACED sh_flip_idle
+WITH gunroboa_damage
+AND kept props from sh_flip_idle
+
+REPLACED sh_break_a
+WITH gunroboa_dash
+AND kept props from sh_break_a
+
+REPLACED sh_break_all
+WITH gunroboa_dash
+AND kept props from sh_break_all
+
+REPLACED sh_break_all
+WITH gunroboa_damage
+AND kept props from sh_break_all
+
+REPLACED sh_break_a
+WITH gunroboa_damage
+AND kept props from sh_break_a
+
+REPLACED sh_break_b
+WITH gunroboa_damage
+AND kept props from sh_break_b
+
+REPLACED sh_break_c
+WITH gunroboa_damage
+AND kept props from sh_break_c
+
+REPLACED sh_break_turn_l
+WITH gunroboa_damage
+AND kept props from sh_break_turn_l
+
+REPLACED sh_break_turn_r
+WITH gunroboa_damage
+AND kept props from sh_break_turn_r
+
+REPLACED sh_bra_r
+WITH gunroboa_dash
+AND kept props from sh_bra_r
+
+REPLACED sh_bra_move
+WITH gunroboa_dash
+AND kept props from sh_bra_move
+
+REPLACED sh_bra_l
+WITH gunroboa_dash
+AND kept props from sh_bra_l
+
+REPLACED sh_bra_idle
+WITH gunroboa_dash
+AND kept props from sh_bra_idle
+
+REPLACED sh_bra_h_up
+WITH gunroboa_dash
+AND kept props from sh_bra_h_up
+
+REPLACED sh_bra_h_idle
+WITH gunroboa_dash
+AND kept props from sh_bra_h_idle
+
+REPLACED sh_bra_h_dwn_stop
+WITH gunroboa_dash
+AND kept props from sh_bra_h_dwn_stop
+
+REPLACED sh_bra_h_dwn
+WITH gunroboa_dash
+AND kept props from sh_bra_h_dwn
+
+REPLACED sh_bra_h_atc_ab
+WITH gunroboa_dash
+AND kept props from sh_bra_h_atc_ab
+
+REPLACED sh_bra_h_atc
+WITH gunroboa_dash
+AND kept props from sh_bra_h_atc
+
+REPLACED sh_bra_h_a
+WITH gunroboa_dash
+AND kept props from sh_bra_h_a
+
+REPLACED sh_bra_gun
+WITH gunroboa_dash
+AND kept props from sh_bra_gun
+
+REPLACED sh_bra_atc_ab_sw02
+WITH gunroboa_dash
+AND kept props from sh_bra_atc_ab_sw02
+
+REPLACED sh_bra_atc
+WITH gunroboa_dash
+AND kept props from sh_bra_atc
+
+REPLACED sh_bra_a
+WITH gunroboa_dash
+AND kept props from sh_bra_a
+
