@@ -6,10 +6,6 @@ REPLACED sh_trap_jump
 WITH rouge_trap_jump
 AND kept props from sh_trap_jump
 
-REPLACED sh_slow_skate
-WITH rouge_slow_run
-AND kept props from sh_slow_skate
-
 REPLACED sh_idle
 WITH rouge_idle
 AND kept props from sh_idle
@@ -31,10 +27,6 @@ WITH rouge_idle
 AND kept props from sh_idle_gun
 
 REPLACED sh_CB
-WITH rouge_meet
-AND kept props from sh_CB
-
-REPLACED sh_CB
 WITH rouge_idle_b
 AND kept props from sh_CB
 
@@ -43,36 +35,16 @@ WITH rouge_fw_jump
 AND kept props from sh_CC_b
 
 REPLACED sh_CC_a
-WITH rouge_trap_jump
-AND kept props from sh_CC_a
-
-REPLACED sh_CC_a
 WITH rouge_meet
 AND kept props from sh_CC_a
 
 REPLACED sh_atc
 WITH rouge_atc_kick
-AND kept props from sh_atc
-
-REPLACED sh_atc
-WITH rouge_atc_kick
 AND used props from rouge_atc_kick
 
 REPLACED sh_jump_drill
 WITH rouge_atc_kick
-AND kept props from sh_jump_drill
-
-REPLACED sh_jump_drill
-WITH rouge_atc_kick
 AND used props from rouge_atc_kick
-
-REPLACED sh_atc_dash
-WITH rouge_fw_jump
-AND kept props from sh_atc_dash
-
-REPLACED sh_atc_dash
-WITH rouge_break_a
-AND kept props from sh_atc_dash
 
 REPLACED sh_atc_dash
 WITH rouge_break_b
@@ -110,30 +82,6 @@ REPLACED sh_jump_e
 WITH rouge_jump_e
 AND kept props from sh_jump_e
 
-REPLACED sh_jump_fa
-WITH rouge_jump_e
-AND kept props from sh_jump_fa
-
-REPLACED sh_jump_fb
-WITH rouge_jump_e
-AND kept props from sh_jump_fb
-
-REPLACED sh_run
-WITH rouge_mid_run
-AND kept props from sh_run
-
-REPLACED sh_run
-WITH rouge_slow_run
-AND kept props from sh_run
-
-REPLACED sh_slow_skate
-WITH rouge_mid_run
-AND kept props from sh_slow_skate
-
-REPLACED sh_run_b
-WITH rouge_top_run
-AND kept props from sh_run_b
-
 REPLACED sh_high_skate
 WITH rouge_top_run
 AND kept props from sh_high_skate
@@ -155,10 +103,6 @@ WITH rouge_dam_m_c
 AND kept props from sh_dam_m_c
 
 REPLACED sh_dam_m_f_a
-WITH rouge_dam_m_c
-AND kept props from sh_dam_m_f_a
-
-REPLACED sh_dam_m_f_a
 WITH rouge_dam_m_a
 AND kept props from sh_dam_m_f_a
 
@@ -170,10 +114,6 @@ REPLACED sh_dam_m_f_c
 WITH rouge_dam_m_c
 AND kept props from sh_dam_m_f_c
 
-REPLACED sh_miss
-WITH rouge_dam_m_b
-AND kept props from sh_miss
-
 REPLACED sh_miss_fall
 WITH rouge_dam_m_b
 AND kept props from sh_miss_fall
@@ -181,74 +121,6 @@ AND kept props from sh_miss_fall
 REPLACED sh_miss
 WITH rouge_dam_m_c
 AND kept props from sh_miss
-
-REPLACED sh_jump_idle
-WITH rouge_meet
-AND kept props from sh_jump_idle
-
-REPLACED sh_jump_back
-WITH rouge_meet
-AND kept props from sh_jump_back
-
-REPLACED sh_run
-WITH rouge_walk
-AND kept props from sh_run
-
-REPLACED sh_run_b
-WITH rouge_walk
-AND kept props from sh_run_b
-
-REPLACED sh_run
-WITH rouge_slow_run
-AND kept props from sh_run
-
-REPLACED sh_run_b
-WITH rouge_slow_run
-AND kept props from sh_run_b
-
-REPLACED sh_jump_back
-WITH rouge_jump_c
-AND kept props from sh_jump_back
-
-REPLACED sh_run_b_l
-WITH rouge_mid_run
-AND kept props from sh_run_b_l
-
-REPLACED sh_run_b_r
-WITH rouge_mid_run
-AND kept props from sh_run_b_r
-
-REPLACED sh_run_r
-WITH rouge_mid_run
-AND kept props from sh_run_r
-
-REPLACED sh_run_l
-WITH rouge_mid_run
-AND kept props from sh_run_l
-
-REPLACED sh_run_r_jump
-WITH rouge_jump_b
-AND kept props from sh_run_r_jump
-
-REPLACED sh_run_l_jump
-WITH rouge_jump_b
-AND kept props from sh_run_l_jump
-
-REPLACED sh_run_b_l
-WITH rouge_break_turn_l
-AND kept props from sh_run_b_l
-
-REPLACED sh_run_l
-WITH rouge_break_turn_l
-AND kept props from sh_run_l
-
-REPLACED sh_run_b_r
-WITH rouge_walk
-AND kept props from sh_run_b_r
-
-REPLACED sh_run_r
-WITH rouge_walk
-AND kept props from sh_run_r
 
 REPLACED sh_run
 WITH rouge_walk
@@ -323,14 +195,6 @@ WITH rouge_jump_a
 AND kept props from sh_run_l_jump
 
 REPLACED sh_jump_fa
-WITH rouge_meet
-AND kept props from sh_jump_fa
-
-REPLACED sh_jump_fb
-WITH rouge_meet
-AND kept props from sh_jump_fb
-
-REPLACED sh_jump_fa
 WITH rouge_trap_jump
 AND kept props from sh_jump_fa
 
@@ -350,21 +214,9 @@ REPLACED sh_jump_trickB
 WITH rouge_break_turn_r
 AND kept props from sh_jump_trickB
 
-REPLACED sh_buki_off
-WITH rouge_meet
-AND kept props from sh_buki_off
-
 REPLACED sh_buki_pick
 WITH rouge_edge_otto
 AND kept props from sh_buki_pick
-
-REPLACED sh_buki_off
-WITH rouge_break_a
-AND kept props from sh_buki_off
-
-REPLACED sh_buki_off
-WITH rouge_break_turn_r
-AND kept props from sh_buki_off
 
 REPLACED sh_buki_off
 WITH rouge_idle_b
