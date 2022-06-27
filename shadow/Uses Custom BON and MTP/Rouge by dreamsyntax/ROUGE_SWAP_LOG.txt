@@ -250,3 +250,92 @@ REPLACED sh_bra_h_idle
 WITH rouge_jump_d
 AND kept props from sh_bra_h_idle
 
+-- end of session 1
+
+REPLACED sh_glind_bk_land
+WITH rouge_break_a
+AND kept props from sh_glind_bk_land
+
+REPLACED sh_glind_land
+WITH rouge_break_a
+AND kept props from sh_glind_land
+
+REPLACED sh_glind_flip_bk
+WITH rouge_break_c
+AND kept props from sh_glind_flip_bk
+
+REPLACED sh_glind_flip_fr
+WITH rouge_break_turn_r
+AND kept props from sh_glind_flip_fr
+
+REPLACED sh_glind_flip_bk
+WITH rouge_break_turn_l
+AND kept props from sh_glind_flip_bk
+
+REPLACED sh_glind_pick_throw
+WITH rouge_edge_otto
+AND kept props from sh_glind_pick_throw
+
+REPLACED sh_glind_pick
+WITH rouge_break_b
+AND kept props from sh_glind_pick
+
+REPLACED sh_pick
+WITH rouge_edge_otto
+AND kept props from sh_pick
+
+REPLACED sh_pick_throw
+WITH rouge_edge_otto
+AND kept props from sh_pick_throw
+
+REPLACED sh_pick_idle
+WITH rouge_idle
+AND kept props from sh_pick_idle
+
+REPLACED sh_pick_walk
+WITH rouge_walk
+AND kept props from sh_pick_walk
+
+REPLACED sh_flip_off
+WITH rouge_idle_b
+AND kept props from sh_flip_off
+
+REPLACED sh_flip_on
+WITH rouge_idle_b
+AND kept props from sh_flip_on
+
+REPLACED sh_flip_up
+WITH rouge_idle_b
+AND kept props from sh_flip_up
+
+REPLACED sh_flip_idle
+WITH rouge_idle
+AND kept props from sh_flip_idle
+
+REPLACED sh_wall_run_l
+WITH rouge_jump_c
+AND kept props from sh_wall_run_l
+
+REPLACED sh_wall_run_r
+WITH rouge_jump_c
+AND kept props from sh_wall_run_r
+
+REPLACED sh_wall_jump
+WITH rouge_fw_jump
+AND kept props from sh_wall_jump
+
+REPLACED sh_wall_l
+WITH rouge_jump_c
+AND kept props from sh_wall_l
+
+REPLACED sh_wall_l_a
+WITH rouge_jump_c
+AND kept props from sh_wall_l_a
+
+REPLACED sh_wall_r
+WITH rouge_jump_c
+AND kept props from sh_wall_r
+
+REPLACED sh_wall_r_a
+WITH rouge_jump_c
+AND kept props from sh_wall_r_a
