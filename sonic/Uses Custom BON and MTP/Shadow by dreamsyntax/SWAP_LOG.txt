@@ -1,0 +1,140 @@
+REPLACED sn_atc_dash
+WITH sh_atc_dash
+AND kept props from sn_atc_dash
+
+REPLACED sn_break_a
+WITH sh_break_a
+AND kept props from sn_break_a
+
+REPLACED sn_break_b
+WITH sh_break_b
+AND kept props from sn_break_b
+
+REPLACED sn_break_c
+WITH sh_break_c
+AND kept props from sn_break_c
+
+REPLACED sn_break_turn_l
+WITH sh_break_turn_l
+AND kept props from sn_break_turn_l
+
+REPLACED sn_break_turn_r
+WITH sh_break_turn_r
+AND kept props from sn_break_turn_r
+
+REPLACED sn_dam_m_a
+WITH sh_dam_m_a
+AND kept props from sn_dam_m_a
+
+REPLACED sn_dam_m_b
+WITH sh_dam_m_b
+AND kept props from sn_dam_m_b
+
+REPLACED sn_dam_m_c
+WITH sh_dam_m_c
+AND kept props from sn_dam_m_c
+
+REPLACED sn_edge_otto
+WITH sh_edge_otto
+AND kept props from sn_edge_otto
+
+REPLACED sn_flort
+WITH sh_flot_side
+AND kept props from sn_flort
+
+REPLACED sn_fw_jump
+WITH sh_fw_jump
+AND kept props from sn_fw_jump
+
+REPLACED sn_glind
+WITH sh_glind
+AND kept props from sn_glind
+
+REPLACED sn_glind_bk
+WITH sh_glind_bk
+AND kept props from sn_glind_bk
+
+REPLACED sn_glind_flip_fr
+WITH sh_glind_flip_fr
+AND kept props from sn_glind_flip_fr
+
+REPLACED sn_idle
+WITH sh_idle
+AND kept props from sn_idle
+
+REPLACED sn_idle_b
+WITH sh_idle_b
+AND kept props from sn_idle_b
+
+REPLACED sn_jump_a
+WITH sh_jump_a
+AND kept props from sn_jump_a
+
+REPLACED sn_jump_b
+WITH sh_jump_b
+AND kept props from sn_jump_b
+
+REPLACED sn_jump_back
+WITH sh_jump_back
+AND kept props from sn_jump_back
+
+REPLACED sn_jump_c
+WITH sh_jump_c
+AND kept props from sn_jump_c
+
+REPLACED sn_jump_d
+WITH sh_jump_d
+AND kept props from sn_jump_d
+
+REPLACED sn_jump_e
+WITH sh_jump_e
+AND kept props from sn_jump_e
+
+REPLACED sn_jump_trickA
+WITH sh_jump_trick
+AND kept props from sn_jump_trickA
+
+REPLACED sn_meet
+WITH sh
+AND kept props from sn_meet
+
+REPLACED sn_slow_run
+WITH sh_slow_skate
+AND kept props from sn_slow_run
+
+REPLACED sn_top_run
+WITH sh_high_skate
+AND kept props from sn_top_run
+
+REPLACED sn_mid_run
+WITH sh_slow_skate
+AND kept props from sn_mid_run
+
+REPLACED sn_run_l_jump
+WITH sh_run_l_jump
+AND kept props from sn_run_l_jump
+
+REPLACED sn_run_r_jump
+WITH sh_run_r_jump
+AND kept props from sn_run_r_jump
+
+REPLACED sn_trap_jump
+WITH sh_trap_jump
+AND kept props from sn_trap_jump
+
+REPLACED sn_walk
+WITH sh_walk
+AND kept props from sn_walk
+
+REPLACED sn_turn_l
+WITH sh_CB
+AND kept props from sn_turn_l
+
+REPLACED sn_turn_r
+WITH sh_CB
+AND kept props from sn_turn_r
+
+REPLACED sn_atc
+WITH sh_atc
+AND used props from sh_atc
+
