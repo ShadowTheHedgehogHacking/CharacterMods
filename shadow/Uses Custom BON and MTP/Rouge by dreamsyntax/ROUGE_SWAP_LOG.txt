@@ -339,3 +339,41 @@ AND kept props from sh_wall_r
 REPLACED sh_wall_r_a
 WITH rouge_jump_c
 AND kept props from sh_wall_r_a
+
+--- end session 2 ---
+REPLACED sh_atc_dash
+WITH rouge_jump_c
+AND kept props from sh_atc_dash
+
+REPLACED sh_bra_a
+WITH rouge_jump_d
+AND kept props from sh_bra_a
+
+REPLACED sh_bra_h_a
+WITH rouge_jump_d
+AND kept props from sh_bra_h_a
+
+REPLACED sh_bra_h_dwn
+WITH rouge_jump_d
+AND kept props from sh_bra_h_dwn
+
+REPLACED sh_bra_h_dwn_stop
+WITH rouge_jump_d
+AND kept props from sh_bra_h_dwn_stop
+
+REPLACED sh_bra_h_up
+WITH rouge_jump_d
+AND kept props from sh_bra_h_up
+
+REPLACED sh_bra_move
+WITH rouge_jump_d
+AND kept props from sh_bra_move
+
+REPLACED sh_bra_l
+WITH rouge_jump_d
+AND kept props from sh_bra_l
+
+REPLACED sh_bra_r
+WITH rouge_jump_d
+AND kept props from sh_bra_r
+
