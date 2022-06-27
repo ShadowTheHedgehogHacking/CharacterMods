@@ -1,2 +1,0 @@
-- p3 struct -> id to shadow for flame shoe
-- id to shadow for shadow jump ball
