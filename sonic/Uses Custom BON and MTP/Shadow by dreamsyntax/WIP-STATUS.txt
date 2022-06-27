@@ -1,4 +1,0 @@
-- p3 struct -> id to shadow for flame shoe
-- id to shadow for shadow jump ball
-- eyes need to be merged to body dff
-- full animation migration done

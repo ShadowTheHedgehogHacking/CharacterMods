@@ -94,10 +94,6 @@ REPLACED sn_jump_trickA
 WITH sh_jump_trick
 AND kept props from sn_jump_trickA
 
-REPLACED sn_meet
-WITH sh
-AND kept props from sn_meet
-
 REPLACED sn_slow_run
 WITH sh_slow_skate
 AND kept props from sn_slow_run
@@ -138,3 +134,6 @@ REPLACED sn_atc
 WITH sh_atc
 AND used props from sh_atc
 
+REPLACED sn_meet
+WITH sh_jump_trick
+AND used props from sh_jump_trick
