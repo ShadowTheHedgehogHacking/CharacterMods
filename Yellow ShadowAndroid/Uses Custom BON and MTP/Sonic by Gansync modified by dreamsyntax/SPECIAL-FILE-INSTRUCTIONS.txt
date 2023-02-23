@@ -32,11 +32,22 @@ c20b474c 00000004
 
 Optional code for jumpball color to be blue and remove shoeflame FX for YellowAndroidShadow:
 
-$YellowAndroid to Sonic Color & FX [dreamsyntax]
+$YellowAndroid to Sonic Color & FX for v2.2 2P-ShdTH ONLY [dreamsyntax]
 0460a800 38000001
 0460a850 38800001
 c2083898 00000003
 80030064 2c00000f
+40820008 38000001
+60000000 00000000
+*Change YellowAndroid slot to have:
+*Sonic's jumpball
+*No shoe flame FX
+
+$YellowAndroid to Sonic Color & FX for v2.3+ 2P-ShdTH ONLY [dreamsyntax]
+0400373C 38000001
+0400378C 38800001
+C2083898 00000003
+80030064 2C00000F
 40820008 38000001
 60000000 00000000
 *Change YellowAndroid slot to have:

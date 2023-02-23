@@ -29,8 +29,14 @@ c20b474c 00000004
 *
 *The other androids must not contain custom MTP with this version of the code.
 
-$YellowAndroid to Omega Color [dreamsyntax]
+$YellowAndroid to Omega Color for v2.2 2P-ShdTH ONLY [dreamsyntax]
 0460a800 38000006
 0460a850 38800006
 *Change YellowAndroid slot to have:
 *Omega's jumball
+
+$YellowAndroid to Omega Color for v2.3+ 2P-ShdTH ONLY [dreamsyntax]
+0400373C 38000006
+0400378C 38800006
+*Change YellowAndroid slot to have:
+*Omega's jumpball
