@@ -1,0 +1,379 @@
+REPLACED sh_walk
+WITH rouge_walk
+AND kept props from sh_walk
+
+REPLACED sh_trap_jump
+WITH rouge_trap_jump
+AND kept props from sh_trap_jump
+
+REPLACED sh_idle
+WITH rouge_idle
+AND kept props from sh_idle
+
+REPLACED sh_idle_b
+WITH rouge_idle_b
+AND kept props from sh_idle_b
+
+REPLACED sh_idle_eda
+WITH rouge_idle
+AND kept props from sh_idle_eda
+
+REPLACED sh_idle_f
+WITH rouge_idle_b
+AND kept props from sh_idle_f
+
+REPLACED sh_idle_gun
+WITH rouge_idle
+AND kept props from sh_idle_gun
+
+REPLACED sh_CB
+WITH rouge_idle_b
+AND kept props from sh_CB
+
+REPLACED sh_CC_b
+WITH rouge_fw_jump
+AND kept props from sh_CC_b
+
+REPLACED sh_CC_a
+WITH rouge_meet
+AND kept props from sh_CC_a
+
+REPLACED sh_atc
+WITH rouge_atc_kick
+AND used props from rouge_atc_kick
+
+REPLACED sh_jump_drill
+WITH rouge_atc_kick
+AND used props from rouge_atc_kick
+
+REPLACED sh_atc_dash
+WITH rouge_break_b
+AND kept props from sh_atc_dash
+
+REPLACED sh_fw_jump
+WITH rouge_fw_jump
+AND kept props from sh_fw_jump
+
+REPLACED sh_edge_otto
+WITH rouge_edge_otto
+AND kept props from sh_edge_otto
+
+REPLACED sh_edge_otto_b
+WITH rouge_edge_otto
+AND kept props from sh_edge_otto_b
+
+REPLACED sh_jump_a
+WITH rouge_jump_a
+AND kept props from sh_jump_a
+
+REPLACED sh_jump_b
+WITH rouge_jump_b
+AND kept props from sh_jump_b
+
+REPLACED sh_jump_c
+WITH rouge_jump_c
+AND kept props from sh_jump_c
+
+REPLACED sh_jump_d
+WITH rouge_jump_d
+AND kept props from sh_jump_d
+
+REPLACED sh_jump_e
+WITH rouge_jump_e
+AND kept props from sh_jump_e
+
+REPLACED sh_high_skate
+WITH rouge_top_run
+AND kept props from sh_high_skate
+
+REPLACED sh_slow_skate
+WITH rouge_slow_run
+AND kept props from sh_slow_skate
+
+REPLACED sh_dam_m_a
+WITH rouge_dam_m_a
+AND kept props from sh_dam_m_a
+
+REPLACED sh_dam_m_b
+WITH rouge_dam_m_b
+AND kept props from sh_dam_m_b
+
+REPLACED sh_dam_m_c
+WITH rouge_dam_m_c
+AND kept props from sh_dam_m_c
+
+REPLACED sh_dam_m_f_a
+WITH rouge_dam_m_a
+AND kept props from sh_dam_m_f_a
+
+REPLACED sh_dam_m_f_b
+WITH rouge_dam_m_b
+AND kept props from sh_dam_m_f_b
+
+REPLACED sh_dam_m_f_c
+WITH rouge_dam_m_c
+AND kept props from sh_dam_m_f_c
+
+REPLACED sh_miss_fall
+WITH rouge_dam_m_b
+AND kept props from sh_miss_fall
+
+REPLACED sh_miss
+WITH rouge_dam_m_c
+AND kept props from sh_miss
+
+REPLACED sh_run
+WITH rouge_walk
+AND kept props from sh_run
+
+REPLACED sh_run_b
+WITH rouge_walk
+AND kept props from sh_run_b
+
+REPLACED sh_run_b_l
+WITH rouge_walk
+AND kept props from sh_run_b_l
+
+REPLACED sh_run_b_r
+WITH rouge_walk
+AND kept props from sh_run_b_r
+
+REPLACED sh_run_l
+WITH rouge_walk
+AND kept props from sh_run_l
+
+REPLACED sh_run_r
+WITH rouge_walk
+AND kept props from sh_run_r
+
+REPLACED sh_break_a
+WITH rouge_break_a
+AND kept props from sh_break_a
+
+REPLACED sh_break_b
+WITH rouge_break_b
+AND kept props from sh_break_b
+
+REPLACED sh_break_c
+WITH rouge_break_c
+AND kept props from sh_break_c
+
+REPLACED sh_break_all
+WITH rouge_break_a
+AND kept props from sh_break_all
+
+REPLACED sh_break_turn_l
+WITH rouge_break_turn_l
+AND kept props from sh_break_turn_l
+
+REPLACED sh_break_turn_r
+WITH rouge_break_turn_r
+AND kept props from sh_break_turn_r
+
+REPLACED sh_jump_idle
+WITH rouge_meet
+AND kept props from sh_jump_idle
+
+REPLACED sh_jump_02_d
+WITH rouge_jump_d
+AND kept props from sh_jump_02_d
+
+REPLACED sh_jump_02_e
+WITH rouge_jump_e
+AND kept props from sh_jump_02_e
+
+REPLACED sh_jump_back
+WITH rouge_jump_a
+AND kept props from sh_jump_back
+
+REPLACED sh_run_r_jump
+WITH rouge_jump_a
+AND kept props from sh_run_r_jump
+
+REPLACED sh_run_l_jump
+WITH rouge_jump_a
+AND kept props from sh_run_l_jump
+
+REPLACED sh_jump_fa
+WITH rouge_trap_jump
+AND kept props from sh_jump_fa
+
+REPLACED sh_jump_fb
+WITH rouge_trap_jump
+AND kept props from sh_jump_fb
+
+REPLACED sh_jump_trick
+WITH rouge_break_turn_l
+AND kept props from sh_jump_trick
+
+REPLACED sh_jump_trickA
+WITH rouge_break_turn_l
+AND kept props from sh_jump_trickA
+
+REPLACED sh_jump_trickB
+WITH rouge_break_turn_r
+AND kept props from sh_jump_trickB
+
+REPLACED sh_buki_pick
+WITH rouge_edge_otto
+AND kept props from sh_buki_pick
+
+REPLACED sh_buki_off
+WITH rouge_idle_b
+AND kept props from sh_buki_off
+
+REPLACED sh_fire_m
+WITH rouge_idle
+AND kept props from sh_fire_m
+
+REPLACED sh_fire_s
+WITH rouge_idle
+AND kept props from sh_fire_s
+
+REPLACED sh_flot
+WITH rouge_jump_c
+AND kept props from sh_flot
+
+REPLACED sh_glind
+WITH rouge_break_b
+AND kept props from sh_glind
+
+REPLACED sh_glind_bk
+WITH rouge_break_b
+AND kept props from sh_glind_bk
+
+REPLACED sh_bra_idle
+WITH rouge_jump_d
+AND kept props from sh_bra_idle
+
+REPLACED sh_bra_h_idle
+WITH rouge_jump_d
+AND kept props from sh_bra_h_idle
+
+-- end of session 1
+
+REPLACED sh_glind_bk_land
+WITH rouge_break_a
+AND kept props from sh_glind_bk_land
+
+REPLACED sh_glind_land
+WITH rouge_break_a
+AND kept props from sh_glind_land
+
+REPLACED sh_glind_flip_bk
+WITH rouge_break_c
+AND kept props from sh_glind_flip_bk
+
+REPLACED sh_glind_flip_fr
+WITH rouge_break_turn_r
+AND kept props from sh_glind_flip_fr
+
+REPLACED sh_glind_flip_bk
+WITH rouge_break_turn_l
+AND kept props from sh_glind_flip_bk
+
+REPLACED sh_glind_pick_throw
+WITH rouge_edge_otto
+AND kept props from sh_glind_pick_throw
+
+REPLACED sh_glind_pick
+WITH rouge_break_b
+AND kept props from sh_glind_pick
+
+REPLACED sh_pick
+WITH rouge_edge_otto
+AND kept props from sh_pick
+
+REPLACED sh_pick_throw
+WITH rouge_edge_otto
+AND kept props from sh_pick_throw
+
+REPLACED sh_pick_idle
+WITH rouge_idle
+AND kept props from sh_pick_idle
+
+REPLACED sh_pick_walk
+WITH rouge_walk
+AND kept props from sh_pick_walk
+
+REPLACED sh_flip_off
+WITH rouge_idle_b
+AND kept props from sh_flip_off
+
+REPLACED sh_flip_on
+WITH rouge_idle_b
+AND kept props from sh_flip_on
+
+REPLACED sh_flip_up
+WITH rouge_idle_b
+AND kept props from sh_flip_up
+
+REPLACED sh_flip_idle
+WITH rouge_idle
+AND kept props from sh_flip_idle
+
+REPLACED sh_wall_run_l
+WITH rouge_jump_c
+AND kept props from sh_wall_run_l
+
+REPLACED sh_wall_run_r
+WITH rouge_jump_c
+AND kept props from sh_wall_run_r
+
+REPLACED sh_wall_jump
+WITH rouge_fw_jump
+AND kept props from sh_wall_jump
+
+REPLACED sh_wall_l
+WITH rouge_jump_c
+AND kept props from sh_wall_l
+
+REPLACED sh_wall_l_a
+WITH rouge_jump_c
+AND kept props from sh_wall_l_a
+
+REPLACED sh_wall_r
+WITH rouge_jump_c
+AND kept props from sh_wall_r
+
+REPLACED sh_wall_r_a
+WITH rouge_jump_c
+AND kept props from sh_wall_r_a
+
+--- end session 2 ---
+REPLACED sh_atc_dash
+WITH rouge_jump_c
+AND kept props from sh_atc_dash
+
+REPLACED sh_bra_a
+WITH rouge_jump_d
+AND kept props from sh_bra_a
+
+REPLACED sh_bra_h_a
+WITH rouge_jump_d
+AND kept props from sh_bra_h_a
+
+REPLACED sh_bra_h_dwn
+WITH rouge_jump_d
+AND kept props from sh_bra_h_dwn
+
+REPLACED sh_bra_h_dwn_stop
+WITH rouge_jump_d
+AND kept props from sh_bra_h_dwn_stop
+
+REPLACED sh_bra_h_up
+WITH rouge_jump_d
+AND kept props from sh_bra_h_up
+
+REPLACED sh_bra_move
+WITH rouge_jump_d
+AND kept props from sh_bra_move
+
+REPLACED sh_bra_l
+WITH rouge_jump_d
+AND kept props from sh_bra_l
+
+REPLACED sh_bra_r
+WITH rouge_jump_d
+AND kept props from sh_bra_r
+
