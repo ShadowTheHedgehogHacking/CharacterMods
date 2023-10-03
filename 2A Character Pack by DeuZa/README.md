@@ -1,6 +1,6 @@
 // Credits //
-This character pack was made 2A  with HeroesONE-reloaded by Sewer56 and Shadow Swap Motion by Dreamsyntax. Thanks to them.
-Special thanks to Dreamsyntax for his work and investment on this game, and for its availability.
+This character pack was made 2A with HeroesONE-reloaded by Sewer56 and Shadow Motion Swapper by dreamsyntax. Thanks to them.
+Special thanks to dreamsyntax for his work and investment on this game, and for its availability.
 
 
 // How to install //
@@ -18,7 +18,7 @@ That is why in each character folder, the corresponding partner is replaced by s
 For exemple, to play Sonic, go to the Player 1 character folder and go to Sonic. Inside, shadow.one is Sonic Player 1 and sonic.one is Shadow as Partner.
 
 
-I - Playable caracter : Player 1
+I - Playable character : Player 1
 
 1 - 	Instead of the slide attack, all the characters curl up in a ball, as in a sonic classic game.
 
@@ -28,7 +28,7 @@ I - Playable caracter : Player 1
 	Their cannon arms just accommodate the weapons you pick up, as if you were playing with classic shadow.
 	Their metallic textures of their bodies have been darkened a bit for more style.
 
-II - Playable caracter : Player 2
+II - Playable character : Player 2
 
 The player 2 folder exists for version 2 player of shadow the hedgehog by dreamsyntax and for battle mode in normal game.
 
