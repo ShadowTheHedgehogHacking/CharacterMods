@@ -87,3 +87,9 @@ C24188A0 0000000A
 
 ### Character Mod Creators 
 * `NULL.DFF` in the root of this project can be used to replace other .DFFs in a .one if an import is an all-in-one DFF instead of separated. This may be useful because Shadow's model is split up into `SHADOW_BODY`, `SHADOW_EYE_L`, `SHADOW_EYE_R`, `SHADOW_HAND_L`, `SHADOW_HAND_R`, `SHADOW_HAND_SWORD`, `SHADOW_MABUTA0[X]`. For example: If doing a single one-model swap, you could replace `SHADOW_BODY` with your model that has hands/eyes already part of one file. Then use NULL.DFF to replace the HAND_L, EYE_R, etc. Keep in mind blinking and hand animations would not work though, since they are tied to those models. Another example would be removing the glare on the 2PGunBlue's model - replacing the content of `SWMTLBGUNGLARE.DFF` with `NULL.DFF` to remove the glare. For clarity, you do not want to rename the DFF files in the `.one` you are simply replacing the *content* with that of NULL.DFF (HeroesONE-R tool does this if you use the Replace feature).
+* [HeroesONE-R](https://github.com/Sewer56/HeroesONE-Reloaded/releases) to open/edit/save `.one` files
+* [ShadowMotionSwapper](https://github.com/ShadowTheHedgehogHacking/ShadowMotionSwapper) to swap MTNs between MTPs (including property mapping option)
+* [ShadowMTPSharp](https://github.com/Sewer56/ShadowMTPSharp/releases) to extract MTPs (MotionPackage / Motion = Animation / Package = Collection of Animations) to raw files
+* [DragonFF](https://github.com/Parik27/DragonFF) Blender plugin to import/edit/export DFF files (models)
+* [io_scene_stn_mtn](https://github.com/Psycrow101/Blender-3D-STH-Mtn-plugin) Blender plugin to import/edit/export BON & MTN files (bones & animations)
+
