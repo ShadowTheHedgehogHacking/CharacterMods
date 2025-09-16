@@ -1,4 +1,0 @@
-May 12, 2023 version
-
-Update Jan 17, 2024:
-- Fix Omega and colors having Shadow eyes and hands extruding from model - dreamsyntax
