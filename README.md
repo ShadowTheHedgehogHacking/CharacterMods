@@ -1,3 +1,8 @@
+> [!NOTE]
+> With the release of [ShadowRecomp by Fox Workshop](https://github.com/FoxWorkshop/ShadowRecomp) this collection is now retired.
+> Models in here (which was mainly just a mirror) are purely for the GameCube version *only*. Ports will likely live on the [PC Gamebanana page](https://gamebanana.com/games/26416).
+>
+
 # CharacterMods
 Collection of model replacements for Shadow the Hedgehog
 
